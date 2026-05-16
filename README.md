@@ -40,10 +40,10 @@
 
 ### 🔹 API Rate Limiter  
 > Node.js, TypeScript, Redis, Docker  
-- Implemented **Token Bucket + Sliding Window algorithms**
-- Used **Redis for distributed request tracking**
+- Implemented **Token Bucket + Sliding Window algorithms**  
+- Used **Redis for distributed request tracking**  
 - Middleware-based scalable architecture  
-- Deployed using Docker (Render + Upstash)
+- Deployed using Docker (Render + Upstash)  
 
 ---
 
@@ -65,10 +65,8 @@
 
 ## 🌍 Connect
 
-## 🌍 Connect
-
 <p align="center">
-  <a href="mailto:prathamagarwal737@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamagarwal737@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/prathamxagarwal/">
