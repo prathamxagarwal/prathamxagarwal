@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Full Stack + GenAI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=prathamxagarwal&color=blue" />
 </p>
 
 ---
