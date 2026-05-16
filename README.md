@@ -1,10 +1,6 @@
 <h1 align="center">Pratham Agarwal 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack + GenAI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamxagarwal&color=blue" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -66,6 +62,8 @@
 - Dynamic UI with DOM manipulation  
 
 ---
+
+## 🌍 Connect
 
 ## 🌍 Connect
 
