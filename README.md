@@ -1,55 +1,81 @@
-<h1 align="center">Hi, I'm Pratham 👋</h1>
-<h3 align="center">Building, breaking, and learning every day</h3>
+<h1 align="center">Pratham Agarwal 👋</h1>
+<h3 align="center">Aspiring Software Engineer | Full Stack + GenAI</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
 </p>
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 About Me
 
-- 💻 Learning **DSA in Java**
-- 🌐 Building **Full Stack Apps (React + Node)**
-- 🤖 Exploring **Machine Learning**
-- 🛠️ Currently working on: **API Rate Limiter & SaaS idea**
+- 🎓 B.Tech in **Electronic & Computer Science Engineering (KIIT)**
+- 💻 Focused on **Full Stack Development + Scalable Backend Systems**
+- 🤖 Exploring **Generative AI & real-world applications**
+- 📚 Strong in **DSA, DBMS, OS, CN**
 
 ---
 
-## 🧠 Tech I Use
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mysql,mongodb,git" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" />
+</p>
+
+### ⚙️ Frameworks & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
 ---
 
-## 📌 Featured Work
+## 📌 Projects
 
 ### 🔹 API Rate Limiter  
-> Sliding Window algorithm using Node.js
-
-### 🔹 SaaS + LLM Project  
-> Query databases using AI
+> Node.js, TypeScript, Redis, Docker  
+- Implemented **Token Bucket + Sliding Window algorithms**
+- Used **Redis for distributed request tracking**
+- Middleware-based scalable architecture  
+- Deployed using Docker (Render + Upstash)
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Book Review App  
+> Node.js, Express, PostgreSQL, EJS  
+- Full-stack CRUD application  
+- RESTful routing with server-side rendering  
+- Integrated Open Library Covers API  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+---
+
+### 🔹 Smart Expense Categorizer  
+> JavaScript, Node.js, Express  
+- Expense tracking with real-time updates  
+- Rule-based automatic categorization  
+- Dynamic UI with DOM manipulation  
 
 ---
 
 ## 🌍 Connect
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:prathamagarwal737@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/prathamxagarwal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
